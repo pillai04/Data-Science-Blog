@@ -6,7 +6,7 @@ Motivation fo this project: This project  is to analyse the data of best seling 
 
 This repositry contains these 3 files:
 1. Our Dataset - "bestsellers with categories.csv"
-2. Project code in jupyter notebok named "Udacity Assignment 1.ipynb". You can get there by clicking - https://github.com/pillai04/Data-Science-Projects/blob/main/Udacity%20Assignment%201.ipynb
+2. Project code in jupyter notebok named "Udacity Assignment 1.ipynb". You can get there by clicking - https://github.com/pillai04/Data-Science-Projects/blob/main/Best%20Selling%20Books%20Analysis%202009-2019.ipynb
 3. README.md 
 
 The libraries used in this project are 
