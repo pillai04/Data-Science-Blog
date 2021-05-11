@@ -4,6 +4,8 @@ Data Analysis on DataSet from Kaggle : Amazon Top 50 Bestselling books 2009-2019
 
 Motivation fo this project: This project  is to analyse the data of best seling books, get insights from it and answer some of the questions for users which can help them to choose or differentiate the books according to genre, popularity, cost. Project mainly focuses on users who want to try book reading for the first time as this lockdown has taken a lot from us but has given this precious privilage a lot of free time.  
 
+If you want to ignore the coding part and want to directly jump on step by step understanding with easy language then refer to my article on medium https://vaibhavkrgautam.medium.com/model-the-model-5e7041093c4e
+
 This repositry contains these 3 files:
 1. Our Dataset - "bestsellers with categories.csv"
 2. Project code in jupyter notebok named "Udacity Assignment 1.ipynb". You can get there by clicking - https://github.com/pillai04/Data-Science-Projects/blob/main/Best%20Selling%20Books%20Analysis%202009-2019.ipynb
